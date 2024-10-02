@@ -1,0 +1,2 @@
+left_avg_load,right_avg_load,overall_load,load_in_left,load_in_right,imbalance,left_x_avg_load,left_y_avg_load,left_z_avg_load,left_x_contribution,left_y_contribution,left_z_contribution,left_v_imbalance,left_ml_imbalance,left_ap_imbalance,right_x_avg_load,right_y_avg_load,right_z_avg_load,right_x_contribution,right_y_contribution,right_z_contribution,right_v_imbalance,right_ml_imbalance,right_ap_imbalance
+2.61,2.8,2.7,48.24399260628465,51.75600739371534,3.5120147874306937,3.14,1.74,4.0,35.0,20.0,45.0,48.46,38.58,51.28,3.34,2.77,3.8,34.0,28.0,38.0,51.54,61.42,48.72
