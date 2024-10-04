@@ -5,7 +5,7 @@ def read_csv_to_dataframe(path):
     acc_df = df[["Acc_X", "Acc_Y", "Acc_Z"]]
     return acc_df
 
-def read_metrics_csv_to_data_frame(path):
+def read_csv_to_data_frame(path):
     df= pd.read_csv(path)
     return df
     
